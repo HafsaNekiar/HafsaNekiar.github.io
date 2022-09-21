@@ -1,0 +1,174 @@
+h1 {text-align: center;}
+h1 {font-size: 60px;}
+body {
+
+    background-color: whitesmoke;
+}
+
+
+.topnav {background-color: goldenrod;
+overflow: hidden;}
+
+.topnav a {
+    float: left;
+    color: rgb(9, 33, 56);
+    text-align: left;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+} 
+
+.topnav a:hover {
+    background-color: rgb(9, 33, 56);
+    color: goldenrod;
+  }
+
+  .topnav a.active {
+    background-color: goldenrod;
+    color: white;
+  }
+
+
+.column {
+  float: left;
+  width: 50%;
+  align-items: right;
+
+}
+
+/* Clear floats after the columns */
+.row:after {
+  display: table;
+  clear: both;
+}
+
+
+h1 {
+
+    font-style: italic; 
+    font-size: larger;
+    color: rgb(9, 33, 56);
+}
+
+
+p1 {
+    font-style: italic;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgb(9, 33, 56);
+}
+
+p2 { 
+
+font-size: 17px;
+font-weight: bold;
+color: goldenrod;
+
+
+}
+
+p3{
+
+    font-size: 30px;
+    font-style: italic;
+    font-weight: bold;
+    color: rgb(9, 33, 56)
+
+}
+
+p4 {
+
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(9, 33, 56);
+}
+
+p5 {
+
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(9, 33, 56);
+}
+
+p6{
+
+    font-size: 30px;
+    font-style: italic;
+    font-weight: bold;
+    color: rgb(9, 33, 56)
+}
+
+p7{
+
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(9, 33, 56);
+}
+
+p8{
+
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(9, 33, 56);
+
+}
+
+p9{
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(9, 33, 56);
+}
+
+p10{
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(9, 33, 56);
+}
+
+p11{
+
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(9, 33, 56);
+}
+
+p12{ 
+    font-size: 17px;
+    font-weight: bold;
+    color: goldenrod;
+}
+ul1 { 
+
+    font-size: 17px;
+    font-weight: bold;
+    color: goldenrod;
+}
+ul2 {
+
+    font-size: 17px;
+    font-weight: bold;
+    color: goldenrod;
+
+}
+
+ul3 {
+    font-size: 17px;
+    font-weight: bold;
+    color: goldenrod;
+}
+
+ul4{ 
+    font-size: 17px;
+    font-weight: bold;
+    color: goldenrod;
+}
+
+ul5 { font-size: 17px;
+    font-weight: bold;
+    color: goldenrod;}
+
+ul6 { font-size: 17px;
+    font-weight: bold;
+    color: goldenrod;}
+
+   
